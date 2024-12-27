@@ -1,0 +1,13 @@
+es:
+  hello: "Hola"
+  products:
+    index:
+      title: "Productos"
+  goodbye: "Adiós"
+  thank_you: "Gracias"
+  welcome: "Bienvenido"
+  errors:
+    messages:
+      not_found: "No encontrado"
+      internal_server_error: "Error interno del servidor"
+      
